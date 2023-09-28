@@ -1,2 +1,2 @@
 # Placement_Prediction
-A Machine Learning Model to predict the placement status of the students.
+A Machine Learning Model to predict the placement and the Academic status of the students.
